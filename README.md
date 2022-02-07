@@ -24,8 +24,7 @@
 # 有问题可以联系我，可增加定制开发：QQ或者微信:952943386 [java版本基于springboot开发](https://github.com/liwanlei/plan)，和基于微服务开发已经完毕，需要源码私聊
 # Email:leileili126@163.com  qq群：194704520  python测试开发群：683894834
 
-# 个人公众号
-![Alt text](https://github.com/liwanlei/jiekou-python3/blob/master/img/weixin.png) 
+
 #   flask部署相关文章：http://www.cnblogs.com/leiziv5/p/7137277.html
 #                     http://www.cnblogs.com/leiziv5/p/8807135.html
 # 友情推荐本人其他开源代码：
@@ -33,8 +32,6 @@
 ##      2.python+flask 做后台，实现微信小程序：https://github.com/liwanlei/webchat_app
 ##      3.python接口测试非平台版本：https://github.com/liwanlei/FXTest
 ##      4.java开发自动化测试平台：https://github.com/liwanlei/plan 
-# 微信打赏
-![Alt text](https://github.com/liwanlei/FXTest/blob/master/image/weixin.png)
  ----------------
 ##    效果图如下：
 
